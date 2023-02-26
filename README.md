@@ -11,7 +11,7 @@ git clone https://github.com/maheshdhoran/cli-tool.git
 
 ### Install Dependencies
 
-This project needs some dependencies. Let's go install it.
+Install dependencies with global flag to use this tool anywhere. Let's go install it.
 
 ```bash
 npm install -g
