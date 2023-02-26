@@ -2,7 +2,7 @@
   "name": "cli-tool",
   "version": "1.0.0",
   "description": "CLI tool to encode/decode, hash and encrypt/decrypt content",
-  "main": "./bin/index.js",
+  "main": "bin/index.js",
   "bin": {
     "cli-tool": "./bin/index.js"
   },
@@ -18,12 +18,5 @@
   "bugs": {
     "url": "https://github.com/maheshdhoran/cli-tool/issues"
   },
-  "homepage": "https://github.com/maheshdhoran/cli-tool#readme",
-  "dependencies": {
-    "@vitalets/google-translate-api": "^9.1.0",
-    "boxen": "^7.0.1",
-    "chalk": "^5.2.0",
-    "figlet": "^1.5.2",
-    "yargs": "^17.7.1"
-  }
+  "homepage": "https://github.com/maheshdhoran/cli-tool#readme"
 }
